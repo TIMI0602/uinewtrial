@@ -465,7 +465,7 @@ body{
     position: absolute;
     z-index: 5;
     top: 420px;
-    left: 55px;
+    left: 11%;
     
 
 }
@@ -1458,7 +1458,7 @@ textarea{
         position: absolute;
         z-index: 5;
         top: 220px;
-        left: 50px;
+        left: 11%;
     
     }
     .dot{
@@ -1881,7 +1881,7 @@ textarea{
 
     }
     .flexin p{
-        font-size: 8.5px;
+        font-size: 9px;
         font-weight: bold;
         color: rgb(109, 106, 106);
 
@@ -1895,12 +1895,12 @@ textarea{
        
     }
     .read a{
-        font-size: 8px;
+        font-size: 8.5px;
         text-decoration: none;
         color:rgb(43, 181, 232);
     }
     .read i{
-        font-size: 8px;
+        font-size: 8.5px;
         text-align: end;
         text-decoration: none;
         color:rgb(43, 181, 232);
@@ -2036,7 +2036,7 @@ textarea{
     .icon-space{
         width: 15%;
         height: 100%;
-        padding: 0.1rem 0rem 0rem 0.5rem;
+        padding: 0.15rem 0rem 0rem 0.5rem;
     
     }
     .icon-space i{
@@ -2114,7 +2114,7 @@ textarea{
         align-items: center;
         justify-content: center;
         text-align: center;
-        font-size: 7px;
+        font-size: 7.5px;
         font-weight: bold;
         color: rgb(109, 106, 106);
         height: 100%;
