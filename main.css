@@ -473,11 +473,12 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 40px;
+    font-size: 14.5px;
     font-weight: bold;
     width: 100%;
     height: 100%;
-    line-height: 0.6rem;
+    line-height: 9.2px;
+
 }
 
 .division{
@@ -1394,11 +1395,13 @@ textarea{
         object-fit: cover;
         width: 100%;
         height: 100%;
+        border-radius: 0.2rem;
     }
     .overlap2 img{
         object-fit: cover;
         width: 100%;
         height: 100%;
+        border-radius: 0.2rem;
     }
     .overlap1{
         border-radius: 0.2rem;
@@ -1454,7 +1457,7 @@ textarea{
         height: 100px;
         position: absolute;
         z-index: 5;
-        top: 67%;
+        top: 70%;
         left: 14%;
     
     }
@@ -1462,11 +1465,11 @@ textarea{
         justify-content: center;
         align-items: center;
         text-align: center;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         width: 100%;
         height: 100%;
-        line-height: 0.32rem;
+        line-height: 5px;
 
     }
 
@@ -2103,7 +2106,8 @@ textarea{
         justify-content: space-between;
         align-items: center;
         height: 100%;
-        width: 100%;
+        width: 90%;
+        border: 1px solid red;
     }
     .area-sides{
         display: flex;
@@ -2115,6 +2119,7 @@ textarea{
         color: rgb(109, 106, 106);
         height: 100%;
         width: 50%;
+        border: 1px solid blue;
       
         
     }
@@ -2125,6 +2130,8 @@ textarea{
         justify-content: center;
         height: 100%;
         width: 100%;
+        border: 1px solid black;
+
     
     }
     .icon-area i{
@@ -2132,6 +2139,8 @@ textarea{
         font-weight: bold;
         color: rgb(109, 106, 106);
         padding: 0.4rem 0rem 0rem 0rem;
+        width: 100%;
+       
     }
     
     .smedia{
@@ -2140,7 +2149,8 @@ textarea{
         border-radius: 50%;
         border: 1px solid rgb(109, 106, 106);
         margin-right: 1rem;
-       
+        width: 100%;
+   
     }
    
 }
